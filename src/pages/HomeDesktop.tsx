@@ -69,7 +69,7 @@ function Header() {
     >
       <div className="mx-auto flex max-w-7xl items-center justify-between gap-4 px-4 py-3 sm:px-6 lg:px-8">
         <Link to="/" className="shrink-0">
-          <img src="/src/assets/Ativo 5logos.svg" alt="Supermercados Varejão São Francisco" className="h-30 w-auto object-contain shadow-lg" />
+          <img src="../assets/Ativo 5logos.svg" alt="Supermercados Varejão São Francisco" className="h-30 w-auto object-contain shadow-lg" />
         </Link>
 
         <div className="bg-white hidden flex-1 items-center gap-2 rounded-full border-2 border-slate-200 px-4 py-2 focus-within:border-brand-blue lg:flex lg:max-w-xl">
